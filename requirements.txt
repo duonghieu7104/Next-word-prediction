@@ -1,0 +1,5 @@
+python-docx==0.8.11
+pandas==2.0.3
+beautifulsoup4==4.12.2
+PyPDF2==3.0.1
+pathlib
