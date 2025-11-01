@@ -3,3 +3,5 @@ pandas==2.0.3
 beautifulsoup4==4.12.2
 PyPDF2==3.0.1
 pathlib
+tensorflow>=2.13.0
+numpy>=1.24.0
